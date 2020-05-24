@@ -1,5 +1,5 @@
 # BlueskyCitadelTraining
 
-##My Internship
+My Internship
 
-####C# Instruction
+C# Instruction
